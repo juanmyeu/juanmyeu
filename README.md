@@ -1,4 +1,9 @@
 ## Juanmy.eu/es
+Este repositorio está pensado para practicar/aprender REACT modificando mi página web juanmy.eu
+![image](https://github.com/user-attachments/assets/91159685-2367-4538-8ec4-35ffe92a24b2)
+
+Ya veremos como queda...
+
 
 <!--
 **juanmyeu/juanmyeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
